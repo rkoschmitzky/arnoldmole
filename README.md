@@ -1,4 +1,4 @@
-# ArnoldMole - An Arnold Log Parser
+# ArnoldMole - an Arnold log parser & logmole extension
 
 ##### Usage
 ```python
